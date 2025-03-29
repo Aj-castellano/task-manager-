@@ -1,42 +1,26 @@
-
 {
 
   "tasks": [
 
     {
-
-      "id": 1,
-
-      "name": "Complete Project Report",
-
-      "assignee": "Mark John Morales",
-
-      "due_date": "2025-03-15",
-
-      "status": "Pending",
-
-      "recurring": false
-
+        "id": 1,
+        "title": "Complete Project Report",
+        "description": "Project Overview",
+        "isCompleted": false,
+        "dueDate": "2025-03-12",
+        "isRecurring": true,
+        "recurrenceFrequency": "Weekly"
     },
 
     {
 
-      "id": 2,
-
-      "name": "Weekly Team Meeting",
-
-      "assignee": "Mark John Morales",
-
-      "due_date": "2025-03-12",
-
-      "status": "Pending",
-
-      "recurring": true,
-
-      "recurrence_pattern": "Weekly",
-
-      "recurrence_end_date": "2025-12-31"
-
+        "id": 2,
+        "title": "Weekly Team Meeting",
+        "description": "Gather Data",
+        "isCompleted": true,
+        "dueDate": "2025-12-31",
+        "isRecurring": false,
+        "recurrenceFrequency": "Monthly"
     }
 
   ]
