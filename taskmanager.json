@@ -1,28 +1,4 @@
-{
+[{"title":"Complete Project Report","dateTime":"2025-03-12T18:07:00.000","recurrence":"Weekly"},{"title":"Team Meeting","dateTime":"2025-12-31T14:24:44.936711","recurrence":"Weekly"},{"title":"Boarding house payment ","dateTime":"2025-04-03T18:00:00.000","recurrence":"Monthly"}]
 
-  "tasks": [
 
-    {
-        "id": 1,
-        "title": "Complete Project Report",
-        "description": "Project Overview",
-        "isCompleted": false,
-        "dueDate": "2025-03-12",
-        "isRecurring": true,
-        "recurrenceFrequency": "Weekly"
-    },
 
-    {
-
-        "id": 2,
-        "title": "Weekly Team Meeting",
-        "description": "Gather Data",
-        "isCompleted": true,
-        "dueDate": "2025-12-31",
-        "isRecurring": false,
-        "recurrenceFrequency": "Monthly"
-    }
-
-  ]
-
-}
