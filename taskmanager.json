@@ -1,4 +1,20 @@
-[{"title":"Complete Project Report","dateTime":"2025-03-12T18:07:00.000","recurrence":"Weekly"},{"title":"Team Meeting","dateTime":"2025-12-31T14:24:44.936711","recurrence":"Weekly"},{"title":"Boarding house payment ","dateTime":"2025-04-03T18:00:00.000","recurrence":"Monthly"}]
-
-
-
+[
+  {
+    "title": "Complete Project Report",
+    "dateTime": "2025-03-12T18:07:00.000",
+    "recurrence": "Weekly",
+    "description": "Finalize and submit the comprehensive project report."
+  },
+  {
+    "title": "Team Meeting",
+    "dateTime": "2025-12-31T14:24:44.936711",
+    "recurrence": "Weekly",
+    "description": "Gather data and discuss project progress."
+  },
+  {
+    "title": "Boarding house payment ",
+    "dateTime": "2025-04-03T18:00:00.000",
+    "recurrence": "Monthly",
+    "description": "Pay the monthly boarding house rent."
+  }
+]
